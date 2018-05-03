@@ -16,9 +16,9 @@
  
  会显示[Y/N] 按Y回车 等待执行完成~
  
- git clone https://github.com/AnnDaJie/Supreme.git   [更具服务器的带宽 来决定速度快慢]
+ git clone https://github.com/AnnDaJie/1200.git   [更具服务器的带宽 来决定速度快慢]
  
- cd Supreme/
+ cd 1200/
  
  chmod u+x 1200.sh
  
